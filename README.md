@@ -12,6 +12,6 @@ Videos
 
 IDE
 
-[Microsoft Lean](https://www.microsoft.com/en-us/research/project/lean/)
+* [Microsoft Lean](https://www.microsoft.com/en-us/research/project/lean/)
 
-[Visual Studio Code](https://code.visualstudio.com)
+* [Visual Studio Code](https://code.visualstudio.com)
