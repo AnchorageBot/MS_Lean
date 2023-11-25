@@ -21,3 +21,9 @@ IDE
 * [Microsoft Lean](https://www.microsoft.com/en-us/research/project/lean/)
 
 * [Visual Studio Code](https://code.visualstudio.com)
+
+  - - - -
+
+  Documentation
+
+  [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/)
